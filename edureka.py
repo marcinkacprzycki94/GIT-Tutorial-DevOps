@@ -1,1 +1,1 @@
-print("welcome to edureksa")
+aprint("welcome to edureksa")
