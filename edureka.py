@@ -1,1 +1,1 @@
-1saprint("welcome to edureksa")
+print("welcome to edureksa")
